@@ -1,0 +1,14 @@
+# Divisible by 3 Python Project  
+
+## Project Description  
+This Python project implements a function that determines whether an integer is divisible by 3. It demonstrates essential programming concepts such as control flow, conditional statements, and function creation.  
+
+## Problem Statement  
+Write a function `div_3()` that takes a single integer as input and returns:  
+- `True`: if the integer is divisible by 3  
+- `False`: otherwise  
+
+Example:  
+```python
+div_3(6)  # Output: True
+div_3(5)  # Output: False
